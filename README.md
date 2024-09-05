@@ -1,29 +1,32 @@
-Quiz Online App
-Features
-Interactive Quiz Interface: Engage with quizzes through an intuitive user interface.
-Dynamic Quiz Display: View a list of quizzes with titles and subtitles.
-Real-Time Timer: Track the remaining time for each quiz with a live countdown.
-Progress Indicator: Visualize your progress through a linear progress bar.
-Answer Selection: Select answers from multiple-choice options and navigate through questions.
-Score Calculation: Automatically calculate and display your score at the end of the quiz.
-Result Feedback: Receive immediate feedback on your performance with a pass/fail result and detailed score summary.
-Functionalities
-Main Activity: Displays a list of available quizzes with images and brief descriptions.
-Quiz Activity: Provides an interactive environment for answering quiz questions, including:
-Displaying the current question and options.
-Handling answer selections and updating the UI accordingly.
-Navigating to the next question.
-Score Dialog: Shows a summary of quiz performance upon completion, including percentage score and feedback.
-Getting Started
-Clone the Repository
+# Quiz Online App
 
-bash
-Copy code
-git clone https://github.com/yourusername/quizonline.git
-Open in Android Studio
+## Features
 
-Open the project in Android Studio.
-Build and run the app on an emulator or device.
-Customize
+- **Interactive Quiz Interface**: User-friendly interface for engaging with quizzes.
+- **Dynamic Quiz Display**: List of quizzes with titles, subtitles, and images.
+- **Real-Time Timer**: Live countdown timer for each quiz.
+- **Progress Indicator**: Visual representation of quiz progress via a linear progress bar.
+- **Answer Selection**: Multiple-choice answers with easy selection.
+- **Score Calculation**: Automated scoring and feedback at the end of the quiz.
+- **Result Feedback**: Pass/fail feedback with detailed score summary.
 
-Update quiz data and UI components as needed.
+## Functionalities
+
+- **Main Activity**: 
+  - Displays a list of available quizzes.
+  - Shows quiz details including images and descriptions.
+  
+- **Quiz Activity**:
+  - Presents quiz questions and answer options.
+  - Handles answer selection and updates UI.
+  - Navigates through questions and shows quiz progress.
+  
+- **Score Dialog**:
+  - Displays final quiz score and performance feedback.
+  - Provides pass/fail result and percentage score.
+
+## Getting Started
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Ajay-patidar0/online-quiz.git
